@@ -1,0 +1,63 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (wire (pts (xy 72.39 55.88) (xy 86.36 55.88))
+    (stroke (width 0) (type default))
+    (uuid 30af3a97-b5ad-4198-b8ed-4a4ff0c7a494)
+  )
+  (wire (pts (xy 72.39 45.085) (xy 86.36 45.085))
+    (stroke (width 0) (type default))
+    (uuid 66789082-eddb-4fa5-940c-94470e61212c)
+  )
+
+  (global_label "GND" (shape input) (at 81.915 55.88 270) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 6c2b2814-a297-4007-853d-cb12f7ca5dd2)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 81.915 62.7357 90)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "VCC" (shape input) (at 82.55 45.085 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 7e312acd-cce1-4ba7-b3bd-efacec8976d6)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 82.55 38.4712 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+
+  (sheet (at 42.545 38.735) (size 29.845 22.86) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid af549741-ba89-4808-a98f-faa5cfb79fa3)
+    (property "Sheetname" "PowerSupply" (at 42.545 38.0234 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PowerSupply.kicad_sch" (at 42.545 62.1796 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "VCC" bidirectional (at 72.39 45.085 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 14426d31-e53b-4956-ae8c-427874bef8e3)
+    )
+    (pin "GND" bidirectional (at 72.39 55.88 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 5a73ffd8-b23a-4cf2-a2bd-79adeff233e6)
+    )
+    (instances
+      (project "CatLasers"
+        (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
