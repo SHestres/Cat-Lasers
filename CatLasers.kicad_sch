@@ -197,7 +197,7 @@
     (property "Value" "ATTINY402-SSN" (at 126.365 92.71 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "SOIC8_4P9X3P9MC_MCH" (at 95.885 99.695 0)
+    (property "Footprint" "" (at 95.885 99.695 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "ATTINY402-SSN" (at 95.885 99.695 0)
