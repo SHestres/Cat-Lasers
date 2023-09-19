@@ -330,6 +330,10 @@
     [
       "af549741-ba89-4808-a98f-faa5cfb79fa3",
       "PowerSupply"
+    ],
+    [
+      "d2efd2c4-3cc3-446b-9153-cc0ad0bf95db",
+      "Buzzer"
     ]
   ],
   "text_variables": {}

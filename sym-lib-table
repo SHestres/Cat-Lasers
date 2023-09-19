@@ -2,6 +2,7 @@
   (version 7)
   (lib (name "ProjVoltageRegulator")(type "KiCad")(uri "${KIPRJMOD}/lib/MIC2288YD5-TR.kicad_sym")(options "")(descr "Boost Voltage Regulator"))
   (lib (name "ProjDiode")(type "KiCad")(uri "${KIPRJMOD}/lib/2023-09-13_21-17-16.kicad_sym")(options "")(descr ""))
-  (lib (name "ProjPMOS")(type "KiCad")(uri "${KIPRJMOD}/lib/DMP2160UW-7.kicad_sym")(options "")(descr ""))
   (lib (name "ProjMCU")(type "KiCad")(uri "${KIPRJMOD}/lib/ATTINY402-SSN.kicad_sym")(options "")(descr ""))
+  (lib (name "ProjGateDriver")(type "KiCad")(uri "${KIPRJMOD}/lib/UCC23313DWYR.kicad_sym")(options "")(descr ""))
+  (lib (name "ProjPMOS")(type "KiCad")(uri "${KIPRJMOD}/lib/RD3L01BATTL1.kicad_sym")(options "")(descr ""))
 )
