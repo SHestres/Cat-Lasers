@@ -296,6 +296,10 @@
     (stroke (width 0) (type default))
     (uuid 4b2842a8-a8be-4790-b9dc-27e11b246bb5)
   )
+  (wire (pts (xy 69.85 126.365) (xy 69.85 132.715))
+    (stroke (width 0) (type default))
+    (uuid 51d22f84-a58c-4380-b5a3-3b31d2f86b75)
+  )
   (wire (pts (xy 129.54 107.315) (xy 135.255 107.315))
     (stroke (width 0) (type default))
     (uuid 5784127f-15ef-43a4-9399-da5d7621f134)
@@ -324,7 +328,7 @@
     (stroke (width 0) (type default))
     (uuid 7ea18d26-dc4b-4be4-aacd-3a419a3b287a)
   )
-  (wire (pts (xy 69.85 109.855) (xy 69.85 132.715))
+  (wire (pts (xy 69.85 109.855) (xy 69.85 118.745))
     (stroke (width 0) (type default))
     (uuid 9bcca050-407f-48e2-a92b-30e0bb589b53)
   )
@@ -343,6 +347,12 @@
   (wire (pts (xy 181.61 87.63) (xy 183.515 87.63))
     (stroke (width 0) (type default))
     (uuid ff55b169-eb38-489c-a615-61a0e3a8cc96)
+  )
+
+  (text "This design assumes that the PWM generator is capable of providing the Gate Driver operating current \nof 10mA"
+    (at 178.435 171.45 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 40cacc9b-0430-4da1-8464-b0b00b92b06c)
   )
 
   (hierarchical_label "GND" (shape input) (at 67.31 132.715 180) (fields_autoplaced)
@@ -488,6 +498,32 @@
       (project "CatLasers"
         (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0/d2efd2c4-3cc3-446b-9153-cc0ad0bf95db"
           (reference "R6") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Hestres_Standard_Lib:R") (at 69.85 122.555 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid e77feee1-6a0c-4cbb-a23e-36d77b69026b)
+    (property "Reference" "R7" (at 72.39 121.285 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "120Ω" (at 72.39 123.825 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 68.072 122.555 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 69.85 122.555 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 174c2aaf-c081-4c22-ab1f-31b1797fdb60))
+    (pin "2" (uuid dc0f7533-c2ac-4931-9514-9422b61e3276))
+    (instances
+      (project "CatLasers"
+        (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0/d2efd2c4-3cc3-446b-9153-cc0ad0bf95db"
+          (reference "R7") (unit 1)
         )
       )
     )
