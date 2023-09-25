@@ -4,5 +4,6 @@
   (lib (name "ProjDiode")(type "KiCad")(uri "${KIPRJMOD}/lib/2023-09-13_21-17-16.kicad_sym")(options "")(descr ""))
   (lib (name "ProjMCU")(type "KiCad")(uri "${KIPRJMOD}/lib/ATTINY402-SSN.kicad_sym")(options "")(descr ""))
   (lib (name "ProjGateDriver")(type "KiCad")(uri "${KIPRJMOD}/lib/UCC23313DWYR.kicad_sym")(options "")(descr ""))
-  (lib (name "ProjPMOS")(type "KiCad")(uri "${KIPRJMOD}/lib/RD3L01BATTL1.kicad_sym")(options "")(descr ""))
+  (lib (name "ProjPMOS_HV")(type "KiCad")(uri "${KIPRJMOD}/lib/RD3L01BATTL1.kicad_sym")(options "")(descr "High Voltage medium current PMOS"))
+  (lib (name "ProjPMOS_LV")(type "KiCad")(uri "${KIPRJMOD}/lib/SSM3J328R.kicad_sym")(options "")(descr "Low Voltage high current PMOS"))
 )
