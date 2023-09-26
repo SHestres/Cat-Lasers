@@ -334,6 +334,10 @@
     [
       "d2efd2c4-3cc3-446b-9153-cc0ad0bf95db",
       "Buzzer"
+    ],
+    [
+      "e8cb00b1-5c92-44fb-a5f7-bb6e01e4cbd4",
+      "IR Emitter + Receiver"
     ]
   ],
   "text_variables": {}
