@@ -1075,6 +1075,12 @@
     (uuid ff6805f2-d63c-4bbd-847c-8acb261d1bd8)
   )
 
+  (text "R1, 2, 3, and 4 control the output \nvoltages of the power supply."
+    (at 194.31 86.995 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f7764db3-d18a-417a-ab28-208530dadb78)
+  )
+
   (hierarchical_label "18V" (shape bidirectional) (at 180.975 56.515 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6908eab5-c3e7-4f14-8436-ab03ef0a10c6)
