@@ -391,7 +391,7 @@
     (property "Value" "UCC23313DWYR" (at 92.71 97.155 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Proj:SOD-123FL_MCC" (at 69.85 104.775 0)
+    (property "Footprint" "Proj:SOIC6_DWY_TEX" (at 69.85 104.775 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "UCC23313DWYR" (at 69.85 104.775 0)

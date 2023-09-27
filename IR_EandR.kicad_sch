@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid b4984520-e2bc-4b05-9338-6cb4ee7a69cd)
+  (uuid beac1306-b189-49e2-aef3-432716c86dcd)
 
   (paper "A4")
 
@@ -1108,7 +1108,7 @@
     (property "Value" "LM293DRE4" (at 95.25 97.155 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "LM293DRE4:SOIC127P599X175-8N" (at 95.25 112.395 0)
+    (property "Footprint" "Proj:SOIC127P599X175-8N" (at 95.25 112.395 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 95.25 112.395 0)
