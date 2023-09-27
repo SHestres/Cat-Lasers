@@ -1363,7 +1363,7 @@
     (property "Reference" "TP1" (at 179.07 51.943 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "3.3V" (at 179.07 54.483 0)
+    (property "Value" "18V" (at 179.07 54.483 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 182.245 56.515 0)
@@ -1543,8 +1543,8 @@
     (property "Datasheet" "~" (at 76.835 69.596 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1ecf50b2-4279-49b1-8963-e92d0eb015b4))
-    (pin "2" (uuid 29b2ab2d-ec37-416f-a220-818abf5bf786))
+    (pin "1" (uuid 974b5b76-a246-49c7-9714-80b25bb40e50))
+    (pin "2" (uuid a4999b86-2614-44d4-923d-e1313919d21d))
     (instances
       (project "CatLasers"
         (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0/af549741-ba89-4808-a98f-faa5cfb79fa3"

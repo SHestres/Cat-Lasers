@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid e4dbc380-3384-433f-b7e7-3d975ed09e61)
+  (uuid 7deb8f42-4c0c-4696-9aa5-e861d29b056a)
 
   (paper "A4")
 
@@ -893,7 +893,7 @@
     (property "Value" "SSM3J328R" (at 145.415 58.42 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "SOT-23F_TOS" (at 130.175 49.53 0)
+    (property "Footprint" "" (at 130.175 49.53 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "SSM3J328R" (at 130.175 49.53 0)
@@ -1138,7 +1138,7 @@
     (property "Value" ".1 uF" (at 69.215 107.95 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 72.0598 110.49 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 72.0598 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.025 106.68 0)
