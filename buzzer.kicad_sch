@@ -397,12 +397,12 @@
     (property "Datasheet" "UCC23313DWYR" (at 69.85 104.775 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (pin "1" (uuid ecd1c3be-b7ee-4e07-b0d7-10c573813bd7))
-    (pin "2" (uuid 011686c0-b0bd-45c3-9b29-614032a0fc29))
-    (pin "3" (uuid 3ff06b59-d997-46ff-a454-f649faaa657a))
-    (pin "4" (uuid 34a7a958-45fa-494a-b304-b3cdc6158d82))
-    (pin "5" (uuid fcca7927-c709-4584-9c76-1b5eca708f33))
-    (pin "6" (uuid 5108bba8-c677-48bf-a751-41a9aab176bb))
+    (pin "1" (uuid d4ac506c-f15b-4d23-9048-553812cbb4ae))
+    (pin "2" (uuid f983786b-456c-4949-b099-3d0b66f9c7cf))
+    (pin "3" (uuid 896b3450-1657-4ec4-ac70-41fdf5e5ef84))
+    (pin "4" (uuid dd27fc3e-dd30-47b9-a9a7-c6753b915831))
+    (pin "5" (uuid 24789695-eac4-4c03-b6b5-5411045910c6))
+    (pin "6" (uuid d9fa8f47-f56a-4f6e-a275-ff7ad2095e38))
     (instances
       (project "CatLasers"
         (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0/d2efd2c4-3cc3-446b-9153-cc0ad0bf95db"
@@ -427,8 +427,8 @@
     (property "Datasheet" "~" (at 182.88 128.905 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4bef8426-9aa3-48e8-899a-31bae45c00f2))
-    (pin "2" (uuid ad1f45b3-ddf3-4b76-9c43-1da6d4eeb4f7))
+    (pin "1" (uuid b6a9f083-d396-49a3-b513-33507c375ec1))
+    (pin "2" (uuid 8772e621-0960-4fa6-ad03-1ead3cdd7ae1))
     (instances
       (project "CatLasers"
         (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0/d2efd2c4-3cc3-446b-9153-cc0ad0bf95db"
@@ -453,8 +453,8 @@
     (property "Datasheet" "~" (at 198.755 127.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 04791ba1-ab14-40c3-a5b6-dfd9e40eaf6d))
-    (pin "2" (uuid 449cd4be-8377-4e3e-923a-9b24889764d9))
+    (pin "1" (uuid 1d2b8d32-76b8-4302-86c6-9da3559b329f))
+    (pin "2" (uuid b50ebbbc-bc26-4ef2-9a9b-8604443876f9))
     (instances
       (project "CatLasers"
         (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0/d2efd2c4-3cc3-446b-9153-cc0ad0bf95db"
@@ -479,9 +479,9 @@
     (property "Datasheet" "RD3L01BATTL1" (at 135.255 107.315 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (pin "1" (uuid c5ec85a8-9693-49b5-91ae-7b087d7b0f76))
-    (pin "2" (uuid 9318bbac-0977-4167-9972-914fc5bb4c4f))
-    (pin "3" (uuid 8cc90745-891c-4454-ac55-9450941eec2e))
+    (pin "1" (uuid 5ad86a9b-6887-46c7-96b1-8429395a4d1d))
+    (pin "2" (uuid 6e0fbbde-e98d-479d-9fe1-7264997825dc))
+    (pin "3" (uuid 52e55129-1bf6-4091-93a9-455e4659ea1f))
     (instances
       (project "CatLasers"
         (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0/d2efd2c4-3cc3-446b-9153-cc0ad0bf95db"
@@ -506,8 +506,8 @@
     (property "Datasheet" "~" (at 125.73 107.315 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e4c93f93-a4e0-4f5d-9486-8aeba0bc6700))
-    (pin "2" (uuid a5acb00b-96be-4230-bd1a-01760052ddb6))
+    (pin "1" (uuid 63df5319-cb5a-407e-ab3e-d7e842e8e818))
+    (pin "2" (uuid d21d09a0-4c70-4efa-8563-f11c8613d1eb))
     (instances
       (project "CatLasers"
         (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0/d2efd2c4-3cc3-446b-9153-cc0ad0bf95db"
@@ -532,8 +532,8 @@
     (property "Datasheet" "~" (at 69.85 122.555 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 174c2aaf-c081-4c22-ab1f-31b1797fdb60))
-    (pin "2" (uuid dc0f7533-c2ac-4931-9514-9422b61e3276))
+    (pin "1" (uuid 1605ac0a-3beb-49f0-847a-be368e01fd2e))
+    (pin "2" (uuid 33dc80c5-e2a8-4a95-bc67-5824d1f77179))
     (instances
       (project "CatLasers"
         (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0/d2efd2c4-3cc3-446b-9153-cc0ad0bf95db"
