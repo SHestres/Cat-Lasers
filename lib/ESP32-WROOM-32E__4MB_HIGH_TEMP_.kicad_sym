@@ -210,55 +210,7 @@
     (symbol "ESP32-WROOM-32E_(4MB_HIGH_TEMP)_1_0"
       (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
         (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_10" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_11" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_12" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_13" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_14" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_15" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_16" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_17" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_18" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_19" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
         (number "39_2" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_20" (effects (font (size 1.016 1.016))))
-      )
-      (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-        (name "GND" (effects (font (size 1.016 1.016))))
-        (number "39_21" (effects (font (size 1.016 1.016))))
       )
       (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
         (name "GND" (effects (font (size 1.016 1.016))))

@@ -559,55 +559,7 @@
       (symbol "ESP32-WROOM-32E_(4MB_HIGH_TEMP)_1_0"
         (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
           (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_10" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_11" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_12" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_13" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_14" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_15" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_16" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_17" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_18" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_19" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
           (number "39_2" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_20" (effects (font (size 1.016 1.016))))
-        )
-        (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
-          (name "GND" (effects (font (size 1.016 1.016))))
-          (number "39_21" (effects (font (size 1.016 1.016))))
         )
         (pin power_in line (at -20.32 -29.21 0) (length 5.08) hide
           (name "GND" (effects (font (size 1.016 1.016))))
@@ -1127,19 +1079,7 @@
     (pin "7" (uuid 0747a071-9c29-4a90-b6a4-d33ba1957d3f))
     (pin "8" (uuid 8ef6bdda-3eef-429e-ba52-5786c348506d))
     (pin "9" (uuid 9d6707b0-a285-46f2-b7fa-28e5722458ba))
-    (pin "39_10" (uuid fe0ac784-4a27-4b53-a569-c4ea6efc366f))
-    (pin "39_11" (uuid 7b7274db-ecaa-4ab4-b9e2-c413e6e731f8))
-    (pin "39_12" (uuid 09b5b3a1-c07d-4ebc-8e68-79cf03b84bb1))
-    (pin "39_13" (uuid aa777ede-31a0-492b-b740-1818b0eec93d))
-    (pin "39_14" (uuid a51d8c66-a20d-41fd-a36e-f2ef11562eff))
-    (pin "39_15" (uuid a9e161bf-6204-4889-a59f-13761c183206))
-    (pin "39_16" (uuid 719a68bd-e8ad-4825-9e15-b53e0dd3c182))
-    (pin "39_17" (uuid b8480426-bb6f-4e08-b80e-4ba167bdbd78))
-    (pin "39_18" (uuid c2a62d71-46ea-4ec1-a0f3-db3d1838764b))
-    (pin "39_19" (uuid f7c5ff06-fe74-4139-91f7-902abe9a47b5))
     (pin "39_2" (uuid 4109e9b6-0e6e-4546-b6e0-011085fd78d0))
-    (pin "39_20" (uuid 98ba91ef-ff63-4e0d-bc9b-061a2a189c12))
-    (pin "39_21" (uuid 3e4b26b9-563c-42a3-bb8a-8f90abea5e55))
     (pin "39_3" (uuid 07c4842e-837b-47aa-85b5-c3ba73bdc8d8))
     (pin "39_4" (uuid d440cef5-1c71-466b-8eae-4b759f30abe2))
     (pin "39_5" (uuid 6799419e-5eae-4b41-8b48-ea857bc67e1b))
