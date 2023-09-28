@@ -1812,13 +1812,13 @@
   )
 
   (symbol (lib_id "ProjPMOS_LV:SSM3J328R") (at 84.455 66.675 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid d230c92a-0dc8-45f6-8c47-0af697607827)
-    (property "Reference" "MOSFET2" (at 92.075 48.26 90)
+    (property "Reference" "FET2" (at 90.805 50.8 90)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "SSM3J328R" (at 92.075 50.8 90)
-      (effects (font (size 1.524 1.524)))
+      (effects (font (size 1.524 1.524)) hide)
     )
     (property "Footprint" "Proj:SOT-23F_TOS" (at 84.455 66.675 0)
       (effects (font (size 1.27 1.27) italic) hide)
@@ -1832,7 +1832,7 @@
     (instances
       (project "CatLasers"
         (path "/b94f5b10-ee0c-4425-b025-e3a8bb3cc7b0/af549741-ba89-4808-a98f-faa5cfb79fa3"
-          (reference "MOSFET2") (unit 1)
+          (reference "FET2") (unit 1)
         )
       )
     )

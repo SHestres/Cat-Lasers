@@ -444,7 +444,7 @@
     (property "Reference" "J1" (at 201.93 127.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x02" (at 201.93 130.175 0)
+    (property "Value" "Piezzo" (at 201.93 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 198.755 127.635 0)
